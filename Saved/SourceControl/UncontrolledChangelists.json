@@ -1,0 +1,41 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/makem/Documents/GitHub/Spekabulor/Content/Level1_HLODLayer_Instanced.uasset",
+				"C:/Users/makem/Documents/GitHub/Spekabulor/Content/Level1_HLODLayer_Merged.uasset",
+				"C:/Users/makem/Documents/GitHub/Spekabulor/Content/__ExternalActors__/Level1/E/1C/1JOXLI3QZ0KUDVPKL4B6BG.uasset",
+				"C:/Users/makem/Documents/GitHub/Spekabulor/Content/__ExternalActors__/Level1/6/M7/1PR2QI81I107F7NRXDGKXU.uasset",
+				"C:/Users/makem/Documents/GitHub/Spekabulor/Content/Level1.umap",
+				"C:/Users/makem/Documents/GitHub/Spekabulor/Content/__ExternalActors__/Map/Level1/5/45/QGNNJ8WDXCTBDXWWNTDX7I.uasset",
+				"C:/Users/makem/Documents/GitHub/Spekabulor/Content/__ExternalActors__/Map/Level1/9/SX/Q1EF0DASTV4JK8GP59EO4U.uasset",
+				"C:/Users/makem/Documents/GitHub/Spekabulor/Content/Map/Level1.umap",
+				"C:/Users/makem/Documents/GitHub/Spekabulor/Content/Map/LV1_HLODLayer_Instanced.uasset",
+				"C:/Users/makem/Documents/GitHub/Spekabulor/Content/Map/LV1_HLODLayer_Merged.uasset",
+				"C:/Users/makem/Documents/GitHub/Spekabulor/Content/__ExternalActors__/Map/LV1/E/NN/24FS5UPX758RWUIZE48YQP.uasset",
+				"C:/Users/makem/Documents/GitHub/Spekabulor/Content/__ExternalActors__/Map/LV1/D/01/XVOQYV8JJBD6EBPT8RVD0W.uasset",
+				"C:/Users/makem/Documents/GitHub/Spekabulor/Content/__ExternalActors__/Map/LV1/3/6M/HXHMZDQMXMHB1FUPZ02EB4.uasset",
+				"C:/Users/makem/Documents/GitHub/Spekabulor/Content/__ExternalActors__/Map/LV1/9/AG/8F0KQ31PD0UPUL6TYQT4AZ.uasset",
+				"C:/Users/makem/Documents/GitHub/Spekabulor/Content/__ExternalActors__/Map/LV1/A/PV/TCV7ZVF9APREH29MA22XWG.uasset",
+				"C:/Users/makem/Documents/GitHub/Spekabulor/Content/__ExternalActors__/Map/LV1/5/6Q/8ZZX8HR7P9VLCRSPBAP34K.uasset",
+				"C:/Users/makem/Documents/GitHub/Spekabulor/Content/__ExternalActors__/Map/LV1/9/9W/9P1LNBSTKNCVH0O34XU18K.uasset",
+				"C:/Users/makem/Documents/GitHub/Spekabulor/Content/__ExternalActors__/Map/LV1/B/0N/RNBES96VRCD7SIOT1K0RC9.uasset",
+				"C:/Users/makem/Documents/GitHub/Spekabulor/Content/__ExternalActors__/Map/LV1/6/9E/V69O3OYRXMCSVHEO9ONLPO.uasset",
+				"C:/Users/makem/Documents/GitHub/Spekabulor/Content/__ExternalActors__/Map/LV1/C/SJ/HKIY4SFLHJ5M7O8WOKNXXA.uasset",
+				"C:/Users/makem/Documents/GitHub/Spekabulor/Content/__ExternalActors__/Map/LV1/0/S6/9WNWGJOCM283NSYR0FO4Q6.uasset",
+				"C:/Users/makem/Documents/GitHub/Spekabulor/Content/__ExternalActors__/Map/LV1/A/6I/C22TG5GHAP1AB30NFMYVVW.uasset",
+				"C:/Users/makem/Documents/GitHub/Spekabulor/Content/__ExternalActors__/Map/LV1/2/ZA/LUTJALHU41EFGKHKHU7O8N.uasset",
+				"C:/Users/makem/Documents/GitHub/Spekabulor/Content/__ExternalActors__/Map/LV1/2/3Y/U98XF3NZLVWA5QSAPBBJZN.uasset",
+				"C:/Users/makem/Documents/GitHub/Spekabulor/Content/__ExternalActors__/Map/LV1/7/BC/B3H4Y0EDLTR6GFXPTMHCW3.uasset",
+				"C:/Users/makem/Documents/GitHub/Spekabulor/Content/__ExternalActors__/Map/LV1/1/ZC/558X8WYUUDHHETTLPLGH44.uasset",
+				"C:/Users/makem/Documents/GitHub/Spekabulor/Content/__ExternalActors__/Map/LV1/5/PX/VJYURTICKDUEWB8UDZ1UKM.uasset",
+				"C:/Users/makem/Documents/GitHub/Spekabulor/Content/__ExternalActors__/Map/LV1/0/8E/EJ2MDFXJE126C9QEQTG2ZQ.uasset",
+				"C:/Users/makem/Documents/GitHub/Spekabulor/Content/__ExternalActors__/Map/LV1/1/VG/19G7C7CMLYSH9Q5N20RNM4.uasset",
+				"C:/Users/makem/Documents/GitHub/Spekabulor/Content/Map/LV1.umap"
+			]
+		}
+	]
+}
